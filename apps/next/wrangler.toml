@@ -6,3 +6,9 @@ workers_dev = true
 name = "t4-stack"
 route = "app.t4stack.com/*"
 workers_dev = false
+
+[[d1_databases]]
+binding = "DB"
+database_name = "production"
+database_id = "19d98e01-00a4-48d2-864f-ab3438e88025"
+migrations_dir = "migrations"
