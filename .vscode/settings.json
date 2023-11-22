@@ -8,7 +8,7 @@
     "**/Thumbs.db": false,
     "**/.wrangler": false,
     "**/migrations": false,
-    "**/node_modules": false,
+    "**/node_modules": true,
     "**/tsconfig.json": false,
     "**/wrangler.toml": false,
     "**/.prettierrc": false,
